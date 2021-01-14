@@ -10,7 +10,10 @@ api:
   fields:
     command:
       description: Command
-      example: "/ip firewall address-list disable"
+      example: "/tool sms send"
+    params:
+      description: "Parameters to api command"
+      example: 'channel=0 port=usb2 message="Test" phone-number="32000000000"'
     find:
       description: "Find command"
       example: "/ip firewall address-list"
