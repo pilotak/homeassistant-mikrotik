@@ -20,10 +20,7 @@ Configuration variables:
 - **username** (*Required*)
 - **password** (*Optional*)
 
-## Install via [HACS](https://github.com/custom-components/hacs)
-You can find this integration in a store.
-
-## Install manually
+## Install
 You need to copy `mikrotik` folder from this repo to the `custom_components` folder in the root of your configuration, file tree should look like this:
 ```
 └── ...
