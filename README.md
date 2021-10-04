@@ -1,5 +1,6 @@
+# ⚠️ Depreciated
+Please use https://github.com/pilotak/homeassistant-mikrotik-api
 # HomeAssistant component: `MikroTik`
-[![Validate](https://github.com/pilotak/homeassistant-mikrotik/workflows/Validate/badge.svg)](https://github.com/pilotak/homeassistant-mikrotik/actions)
 
 The `mikrotik` platform enables you to execute scripts and perform API requests in MikroTik router
 
